@@ -44,12 +44,8 @@ In the `yearbook-data.js` file, un-comment-out the "students" information. Get t
 
 Then create a controlled component that allows a user to add a new student.
 
-### Iteration 3 (extension - do not attempt until iterations 0 - 2 are completed)
+### Iteration 3 (optional extension - do not attempt until iterations 0 - 2 are completed)
 
 Add in the functionality so that a user can click and edit a student's information.  A user should be able to update the name, quote, and superlative.  
 
 Lastly, add a delete button on each card that allowers a user to remove students that are no longer attending.
-
-### Iteration 4 (extension - do not attempt until iterations 0 - 3 are completed)
-
-Test all of your components.  This not only includes snapshot tests, but also all of your methods and changes in state.
