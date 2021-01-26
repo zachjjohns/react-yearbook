@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Cohort from './Cohort';
+import Cohort from './Cohort/Cohort';
 import people from '../data/yearbook-data.js';
 import './App.css';
 
